@@ -1,0 +1,10 @@
+/Volumes/SSD500/Проги/Программирование/Гиг_брейнс/3._Введение_в_программирование/5._Sem_12.11.2022_z2/obj/Debug/net6.0/5._Sem_12.11.2022_z2.csproj.AssemblyReference.cache
+/Volumes/SSD500/Проги/Программирование/Гиг_брейнс/3._Введение_в_программирование/5._Sem_12.11.2022_z2/obj/Debug/net6.0/5._Sem_12.11.2022_z2.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/SSD500/Проги/Программирование/Гиг_брейнс/3._Введение_в_программирование/5._Sem_12.11.2022_z2/obj/Debug/net6.0/5._Sem_12.11.2022_z2.AssemblyInfoInputs.cache
+/Volumes/SSD500/Проги/Программирование/Гиг_брейнс/3._Введение_в_программирование/5._Sem_12.11.2022_z2/obj/Debug/net6.0/5._Sem_12.11.2022_z2.AssemblyInfo.cs
+/Volumes/SSD500/Проги/Программирование/Гиг_брейнс/3._Введение_в_программирование/5._Sem_12.11.2022_z2/obj/Debug/net6.0/5._Sem_12.11.2022_z2.csproj.CoreCompileInputs.cache
+/Volumes/SSD500/Проги/Программирование/Гиг_брейнс/3._Введение_в_программирование/5._Sem_12.11.2022/5._Sem_12.11.2022_z2/obj/Debug/net6.0/5._Sem_12.11.2022_z2.csproj.AssemblyReference.cache
+/Volumes/SSD500/Проги/Программирование/Гиг_брейнс/3._Введение_в_программирование/5._Sem_12.11.2022/5._Sem_12.11.2022_z2/obj/Debug/net6.0/5._Sem_12.11.2022_z2.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/SSD500/Проги/Программирование/Гиг_брейнс/3._Введение_в_программирование/5._Sem_12.11.2022/5._Sem_12.11.2022_z2/obj/Debug/net6.0/5._Sem_12.11.2022_z2.AssemblyInfoInputs.cache
+/Volumes/SSD500/Проги/Программирование/Гиг_брейнс/3._Введение_в_программирование/5._Sem_12.11.2022/5._Sem_12.11.2022_z2/obj/Debug/net6.0/5._Sem_12.11.2022_z2.AssemblyInfo.cs
+/Volumes/SSD500/Проги/Программирование/Гиг_брейнс/3._Введение_в_программирование/5._Sem_12.11.2022/5._Sem_12.11.2022_z2/obj/Debug/net6.0/5._Sem_12.11.2022_z2.csproj.CoreCompileInputs.cache
